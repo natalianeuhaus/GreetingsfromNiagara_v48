@@ -1,6 +1,6 @@
 # Niagara Interactive Map — v0.48
 
-Upload the contents of this folder to the root of the GitHub Pages repository.
+Upload the contents of this folder to the root of the GitHub Pages repository. 
 
 - `index.html` is the live map.
 - `Niagara_Interactive_Map_COMPLETE_v0_48.html` is the numbered archival copy.
